@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Mermaid from './mermaid';
 import { useState } from 'react';
